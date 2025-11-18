@@ -1,5 +1,4 @@
 <!--## Hi there 👋-->
-
 <!--
 **muhtasim-sami/muhtasim-sami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # 👋 Hi, I'm MD. Muhtasim Rahman Sami
 
 🎓 **Currently studying at:**  
@@ -42,6 +40,11 @@ American International University-Bangladesh (AIUB)
 - Project Name – Short description  
 - Project Name – Short description  
 -->
+
+<img height="10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhtasim-sami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
+
 ---
 
 ## 📫 Connect With Me
