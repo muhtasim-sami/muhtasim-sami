@@ -36,12 +36,12 @@ American International University-Bangladesh (AIUB)
   - Digital Forensics  
 
 ---
-
+<!--
 ## 📂 Featured Projects
 *(Add links to your best repositories here)*  
 - Project Name – Short description  
 - Project Name – Short description  
-
+-->
 ---
 
 ## 📫 Connect With Me
