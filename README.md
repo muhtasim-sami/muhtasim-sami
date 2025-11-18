@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm MD. Muhtasim Rahman Sami
 
-🎓 **Currently studying at:**  
+## 🎓 **Currently studying at:**  
 American International University-Bangladesh (AIUB)
 
-💻 **About Me:**  
+## 💻 **About Me:**  
 - 🌱 I’m passionate about **Cybersecurity** and continuously exploring new areas in this field.  
 - 📚 Most of my repositories are **university course projects**, but I’m gradually working on **security-focused projects**.  
 - 🔍 Interested in **ethical hacking, penetration testing, and network security**.  
