@@ -40,7 +40,7 @@ American International University-Bangladesh (AIUB)
 - Project Name – Short description  
 - Project Name – Short description  
 -->
-
+## 💻 I code with
 <img height="10"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhtasim-sami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 
@@ -48,9 +48,14 @@ American International University-Bangladesh (AIUB)
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** muhtasim-sami  
-- **LinkedIn:** *(https://www.linkedin.com/in/muhtasim-rahman-sami-894b3934a)*  
-- **Email:** *(muhtasimsami2002@gmail.com)*  
+<div align="left">
+  <a href="mail:muhtasimsami2002@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhtasim-rahman-sami-894b3934a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
