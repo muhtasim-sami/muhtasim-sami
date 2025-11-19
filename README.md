@@ -24,7 +24,7 @@ American International University-Bangladesh (AIUB)
 - 🔍 Interested in **ethical hacking, penetration testing, and network security**.  
 
 ---
-
+<!--
 ## 🚀 Skills & Interests
 - **Programming Languages:** Python, C++, Java  
 - **Cybersecurity Tools:** Wireshark, Nmap, Metasploit  
