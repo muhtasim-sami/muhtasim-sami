@@ -54,6 +54,11 @@ American International University-Bangladesh (AIUB)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Python" />
   <img width="1"/>
 
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Python" />
+  <img width="1"/>
+
+
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Python" />
   <img width="1"/>
