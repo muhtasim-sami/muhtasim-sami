@@ -42,6 +42,10 @@ American International University-Bangladesh (AIUB)
 -->
 ## 💻 I code with
 <div align="left">
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C++" />
+  <img width="1"/>
+
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="1"/>
